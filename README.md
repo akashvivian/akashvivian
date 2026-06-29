@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Akash Vivian
 
-<!--
-**akashvivian/akashvivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer & Communication Engineering
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+- MERN Stack
+- Spring Boot
+- AI & Machine Learning
+
+🚀 Projects
+- 🌾 AI Crop Recommendation System
+- 🏛️ TamilNilam Citizen Portal
+- 🚚 DeliverNow Food Delivery
+- 🛡️ QuickShield Insurance
+
+📫 Reach me
+Email: your@email.com
+LinkedIn: Your LinkedIn
