@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Akash Vivian — Building intelligent software for real-world problems. Full Stack Engineering, AI Systems, Backend Development." width="100%">
+  <img src="https://raw.githubusercontent.com/akashvivian/akashvivian/main/banner.svg" alt="Akash Vivian — Building intelligent software for real-world problems. Full Stack Engineering, AI Systems, Backend Development." width="100%">
   <p>
     <a href="mailto:sakashvivian@gmail.com">Email</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/akash-vivian-241258329">LinkedIn</a> &nbsp;·&nbsp;
@@ -47,7 +47,7 @@ My recent project work covers AI agent security, computer vision for robotics, a
 
 <table>
   <tr>
-    <td width="72" align="center"><img src="assets/icon-shield.svg" width="56" alt="Shield icon"></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/akashvivian/akashvivian/main/icon-shield.svg" width="56" alt="Shield icon"></td>
     <td><h3>MCP Sentinel</h3><sub>AI agent security &amp; MCP tool auditing</sub></td>
     <td align="right"><code>In Progress</code></td>
   </tr>
@@ -67,7 +67,7 @@ My recent project work covers AI agent security, computer vision for robotics, a
 
 <table>
   <tr>
-    <td width="72" align="center"><img src="assets/icon-circuit.svg" width="56" alt="Circuit chip icon"></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/akashvivian/akashvivian/main/icon-circuit.svg" width="56" alt="Circuit chip icon"></td>
     <td><h3>ReCore AI</h3><sub>Adaptive robotic disassembly &amp; grading</sub></td>
     <td align="right"><code>Prototype concept</code></td>
   </tr>
@@ -87,7 +87,7 @@ My recent project work covers AI agent security, computer vision for robotics, a
 
 <table>
   <tr>
-    <td width="72" align="center"><img src="assets/icon-chart.svg" width="56" alt="Market analytics chart icon"></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/akashvivian/akashvivian/main/icon-chart.svg" width="56" alt="Market analytics chart icon"></td>
     <td><h3>Sherlock Trading Platform</h3><sub>F&amp;O options intelligence</sub></td>
     <td align="right"><code>Concept</code></td>
   </tr>
