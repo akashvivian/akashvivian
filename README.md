@@ -1,175 +1,138 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:7F00FF&text=Akash%20Vivian&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20CCE%20Student&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;☕+Spring+Boot+Developer;⚛️+React+%7C+Node.js+%7C+MongoDB;🚀+Always+Learning+New+Technologies" />
-
-<p>
-<a href="mailto:sakashvivian@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akash-vivian-241258329">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/akashvivian">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=akashvivian&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
+  <img src="assets/banner.svg" alt="Akash Vivian — Building intelligent software for real-world problems. Full Stack Engineering, AI Systems, Backend Development." width="100%">
+  <p>
+    <a href="mailto:sakashvivian@gmail.com">Email</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/akash-vivian-241258329">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="https://github.com/akashvivian">GitHub</a>
+  </p>
 </div>
 
----
+```bash
+akash@command-center:~$ whoami
+akash vivian — full stack developer | ai enthusiast
 
-# 💫 About Me
+akash@command-center:~$ cat focus.txt
+full-stack engineering · ai systems · backend development
 
-```text
-🎓 Computer & Communication Engineering Student
-
-💻 Passionate Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-🌱 Learning Spring Boot, MERN Stack, Cloud & DevOps
-
-🚀 Building software that solves real-world problems.
+akash@command-center:~$ ls ~/learning
+spring-boot/  mern/  cloud/  devops/
 ```
 
----
+<br>
 
-# 🚀 Tech Stack
+## // about
+
+I'm a Computer and Communication Engineering student (batch 2024–2028) at Sri Eshwar College of Engineering, Coimbatore. I build full-stack applications and AI-driven systems, with a focus on backend engineering and software architecture.
+
+My recent project work covers AI agent security, computer vision for robotics, and financial analytics. I've completed internships at the National Informatics Centre (Spring Boot, Angular) and Rampex Technologies (MERN stack). I'm currently learning Spring Boot, the MERN stack, cloud, and DevOps, and I'm most interested in problems where software has to hold up against messy, real-world constraints.
+
+<br>
+
+## // stack
+
+| | |
+|:--|:--|
+| **Languages** | `Java` `Python` `C` `C++` `JavaScript` `TypeScript` |
+| **Frontend** | `React` `Angular` `HTML5` `CSS3` |
+| **Backend** | `Spring Boot` `Node.js` `Express.js` `FastAPI` `JWT` |
+| **Databases** | `MySQL` `MongoDB` `PostgreSQL` `SQLite` |
+| **AI / ML** | `PyTorch` `OpenCV` `Model Context Protocol (MCP)` |
+| **Tools, Cloud & DevOps** | `Git` `GitHub` `Docker` `Postman` `Linux` `VS Code` `AWS (Cloud Practitioner certified)` |
+
+<sub>Spring Boot, MERN, cloud and DevOps are active learning areas, not claims of mastery.</sub>
+
+<br>
+
+## // featured projects
+
+<table>
+  <tr>
+    <td width="72" align="center"><img src="assets/icon-shield.svg" width="56" alt="Shield icon"></td>
+    <td><h3>MCP Sentinel</h3><sub>AI agent security &amp; MCP tool auditing</sub></td>
+    <td align="right"><code>In Progress</code></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      A security auditing system for MCP servers. It analyzes tool descriptions, metadata, and input schemas to flag prompt injection, tool poisoning, suspicious instructions, and excessive permissions.
+      <br><br>
+      <b>Design scope</b><br>
+      ▸ Layered analysis: rule-based detection, lightweight ML classification, and LLM-based evaluation<br>
+      ▸ Tool-version comparison and security-drift detection<br>
+      ▸ Risk scoring with evidence, severity levels, and tool-level reports
+      <br><br>
+      <b>Stack</b> &nbsp;<code>Python</code> <code>MCP</code> <code>FastAPI</code> <code>React</code> <code>SQLite / PostgreSQL</code> <code>Docker</code>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="72" align="center"><img src="assets/icon-circuit.svg" width="56" alt="Circuit chip icon"></td>
+    <td><h3>ReCore AI</h3><sub>Adaptive robotic disassembly &amp; grading</sub></td>
+    <td align="right"><code>Prototype concept</code></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      A prototype concept for AI-driven disassembly and condition grading of end-of-life EV batteries, combining computer vision, sensor data, intelligent planning, and human-supervised robotic workflows.
+      <br><br>
+      <b>Design scope</b><br>
+      ▸ Workflow: SCAN → UNDERSTAND → PLAN → ACT → HUMAN HANDOFF<br>
+      ▸ AI-assisted, component-specific disassembly planning with safety checkpoints<br>
+      ▸ Human-in-the-loop intervention for high-risk operations, with simulation-based execution
+      <br><br>
+      <b>Stack</b> &nbsp;<code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>ROS2</code> <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="72" align="center"><img src="assets/icon-chart.svg" width="56" alt="Market analytics chart icon"></td>
+    <td><h3>Sherlock Trading Platform</h3><sub>F&amp;O options intelligence</sub></td>
+    <td align="right"><code>Concept</code></td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      An AI-powered financial intelligence platform for Indian Futures &amp; Options markets (NSE/BSE), combining options activity, market trends, volatility, open interest, and quantitative analytics.
+      <br><br>
+      <b>Design scope</b><br>
+      ▸ Options-chain analysis and market intelligence<br>
+      ▸ Financial data ingestion with Python-based analytics<br>
+      ▸ AI-assisted insights and risk indicators on a modular dashboard (frontend + backend)
+      <br><br>
+      <b>Stack</b> &nbsp;<code>React</code> <code>Node.js</code> <code>Python</code> <code>Machine Learning</code>
+    </td>
+  </tr>
+</table>
+
+<sub>Feature lists describe each project's design scope, not a claim that every item is complete. Repository and demo links will be added once they are public.</sub>
+
+<br>
+
+## // activity
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,python,cpp,c,html,css,js,git,github,mysql,docker,vscode,postman,linux"/>
-
+  <img height="165" alt="GitHub stats for akashvivian: stars, commits, pull requests, issues" src="https://github-readme-stats.vercel.app/api?username=akashvivian&show_icons=true&hide_border=false&bg_color=0A0C10&border_color=1F2530&title_color=22D3EE&text_color=9CA3AF&icon_color=8B5CF6">
+  <img height="165" alt="Most used languages on akashvivian's GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvivian&layout=compact&bg_color=0A0C10&border_color=1F2530&title_color=22D3EE&text_color=9CA3AF">
 </p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌾 AI Crop Recommendation | Machine Learning + Weather + Soil Data |
-| 🏛 TamilNilam Portal | Spring Boot + Angular Government Portal |
-| 🚚 DeliverNow | Food Delivery System |
-| 🛡 QuickShield | Parametric Insurance Platform |
-| 📋 Complaint Portal | Complaint Management System |
-| 🎮 Space Dodge | Python Arcade Game |
-
----
-
-# 📊 GitHub Statistics
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akashvivian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvivian&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img alt="GitHub contribution streak for akashvivian" src="https://streak-stats.demolab.com?user=akashvivian&background=0A0C10&border=1F2530&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=9CA3AF&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280">
 </p>
 
----
+<br>
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=akashvivian&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akashvivian&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashvivian&theme=tokyo-night"/>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Spring Boot
-- ✅ Build Production MERN Applications
-- ⏳ Learn Docker
-- ⏳ Learn Kubernetes
-- ⏳ Learn AWS
-- ⏳ Contribute to Open Source
-- ⭐ Reach 100 GitHub Stars
-
----
-
-# 🧠 Currently Learning
+## // currently exploring
 
 ```text
-Spring Boot      ██████████░░░░ 75%
-
-React            ████████░░░░░░ 60%
-
-Docker           ██████░░░░░░░░ 45%
-
-AWS              ████░░░░░░░░░░ 30%
+spring-boot   → backend services beyond coursework
+mern          → full-stack applications end to end
+cloud         → deploying and operating what I build
+devops        → containers, pipelines, reliable releases
+mcp security  → auditing how AI agents use tools
 ```
 
----
+<br>
 
-# 🌍 Connect With Me
-
-📧 Email: **sakashvivian@gmail.com**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/akash-vivian-241258329
-
-🐙 GitHub:
-https://github.com/akashvivian
-
----
-
-# 💬 Developer Quote
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
----
-
-# ☕ Fun Facts
-
-- 💻 Night Coder
-- 🚀 Loves Building AI Projects
-- ☕ Coffee Powered
-- 🌱 Always Learning
-- 🎯 Open Source Enthusiast
-
----
-
-# 🐍 Contribution Snake
-
-> Enable this after creating the GitHub Action.
-
-![](https://github.com/akashvivian/akashvivian/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### If you like my work, consider giving a ⭐ to my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:7F00FF"/>
-
-</div>
+```js
+// define the problem clearly · build the system carefully · verify before shipping
+```
